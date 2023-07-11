@@ -1,16 +1,29 @@
-### Hi there 👋
+Hi 👋, I'm Milos Bayar 🤝
 
-<!--
-**milosbayar/milosbayar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  <img src="https://komarev.com/ghpvc/?username=milosbayar&style=flat-square&color=blue" alt=""/>
 
-Here are some ideas to get you started:
+  
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milosbayar&show_icons=true&theme=highcontrast)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=milosbayar&theme=highcontrast)](https://git.io/streak-stats&theme=highcontrast)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milosbayar&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+Technologies I Use
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,nodejs,vue,mysql,php,ejs&theme=dark)](https://skills.thijs.gg)
+
+
