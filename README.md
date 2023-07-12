@@ -5,10 +5,6 @@
 </div>
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milosbayar&show_icons=true&theme=highcontrast)
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=milosbayar&theme=highcontrast)](https://git.io/streak-stats&theme=highcontrast)
 
 
@@ -17,9 +13,6 @@
 
 
 
-
 Technologies I Use
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,nodejs,vue,mysql,php,ejs&theme=dark)](https://skills.thijs.gg)
-
-
+<img src="https://skillicons.dev/icons?i=angular,react,vue,redux,next,rxjs,graphql,nodejs,express,nest,laravel,py,django,flask,dotnet,java,spring,cs,dotnet,flutter,prisma,mysql,postgresql,mongodb,redis,dynamodb,git,jenkins,docker,kubernetes,aws&perline=14" alt="Technologies" width="100%"/>
