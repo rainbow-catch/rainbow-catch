@@ -1,4 +1,4 @@
-👋, I am a full-stack developer with over 5 years of experience. 🤝
+👋, I am a full-stack developer with over 7 years of experience. 🤝
 
   
   <img src="https://komarev.com/ghpvc/?username=rainbow-catch&style=flat-square&color=blue" alt=""/>
